@@ -14,6 +14,7 @@ Travel App is a user-friendly and comprehensive mobile application that offers a
 
 ## Demo 
 
+https://github.com/agrawal-nandini/travel_app_project/assets/95284734/e828a33c-1bab-4d22-bbd5-2f5fd9d6a55c
 
-https://github.com/agrawal-nandini/travel_app_project/assets/95284734/bec68383-d48d-417b-b584-48b4bf88c0ae
+
 
